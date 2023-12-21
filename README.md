@@ -39,4 +39,4 @@ This structured approach ensures a secure, user-friendly, and feature-rich fligh
 
 ## Swagger API Documentation
 
-- **API Documentation:** The project includes Swagger API documentation, providing detailed information about the available endpoints, request parameters, and responses. Also you can see general view with Swagger API in SwaggerAPI folder which is exists in the project.
+- **API Documentation:** The project includes Swagger API documentation, providing detailed information about the available endpoints, request parameters, and responses. 
